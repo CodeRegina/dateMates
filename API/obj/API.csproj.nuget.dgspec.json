@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\api\\API.csproj": {}
+    "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\api\\API.csproj": {
+    "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\api\\API.csproj",
+        "projectPath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj",
         "packagesPath": "C:\\Users\\regin_ml7o3se\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\api\\obj\\",
+        "outputPath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\regin_ml7o3se\\AppData\\Roaming\\NuGet\\NuGet.Config",
