@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kPfeQjxdZhanBzOiPlkKHkER2TCkbsZveVa9h/DPetKDtS+aNKTTBf0dAGY0T7m6ME278BB6F99mIfeZoIDn7g==",
+  "dgSpecHash": "9AEWolswHGaVH5KrwFDPxBcuyZVXy5FoQtc51wEgqRLAxv2FGyFvw/tqsV+oNn+zeE0v4raoSeoUIfNdKHu+aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\regin_ml7o3se\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\regin_ml7o3se\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
