@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj": {}
+    "c:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj": {
+    "c:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj",
+        "projectPath": "c:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API.csproj",
         "packagesPath": "C:\\Users\\regin_ml7o3se\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\obj\\",
+        "outputPath": "c:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\regin_ml7o3se\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,6 +48,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.1, )"
             }
           },
           "imports": [
