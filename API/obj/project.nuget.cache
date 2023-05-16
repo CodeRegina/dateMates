@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ohzMqjhF7o7onIVj2UL8wjlbCj9wuhNl6cbRntIUJBjfK2tvdtt0eZeIjr9mQN3/a3tH1fON/9YsFJ0f3VScg==",
+  "dgSpecHash": "m83yCkhBwdeFqIC1qpP/J4qwwG/p+8BignTPPeIskC6IUFF0UnChC91AxPFPmweIuzFm/JEF2eDauy0Jz4lWFg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\regin_ml7o3se\\Desktop\\dateMate\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\regin_ml7o3se\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\regin_ml7o3se\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.5\\microsoft.aspnetcore.authentication.jwtbearer.7.0.5.nupkg.sha512",
